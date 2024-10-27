@@ -1,0 +1,47 @@
+.footer_logo{
+        height: 33px;
+        width: 120px;
+}
+
+.footer-container{
+    margin-top: 80px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.footer-copyright{
+    background: linear-gradient(to right, rgba(116, 120, 220), rgba(139, 170, 210), rgba(133, 194, 188));
+}
+
+.footer-email-submit{
+    background-color: #7D7DD4;
+    width: 80px;
+    height: 40px;
+    color:white;
+    font-size: 15px;
+    font-family: Kanit_Regular;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 3px solid #7D7DD4;
+    border-radius: 50px;
+    margin-top: 22px;
+}
+
+.footer-email-submit:hover{
+    background-color: #7d7dd428;
+    width: 80px;
+    height: 40px;
+    color:white;
+    font-size: 15px;
+    font-family: Kanit_Regular;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 3px solid #7D7DD4;
+    border-radius: 50px;
+    margin-top: 22px;
+}
+
+.footer-email-text{
+    color: white;
+}

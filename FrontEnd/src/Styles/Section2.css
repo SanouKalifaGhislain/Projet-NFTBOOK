@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Kanit_Regular';
+    src: url('../Polices/Kanit-Regular.ttf') format('truetype')
+}
+
+.section2_item_title{
+    color: #87CFD0;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: -5px;
+}
+
+.section2_paragraph{
+    text-align: justify;
+    margin-top: -15px;
+    color: white;
+
+}
+
+.section2_container{
+    margin-top: 50px;
+    background: linear-gradient(to right, rgba(219, 115, 88, 0.3), rgba(115, 115, 115, 0.3), rgba(148, 148, 235, 0.3));
+}
+
+.section2_title{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family: Kanit_Regular;
+    color: white;
+    font-size: large;
+}

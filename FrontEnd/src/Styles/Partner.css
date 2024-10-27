@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Courgette-Regular';
+    src: url('../Polices/Courgette-Regular.ttf') format('truetype')
+}
+
+
+.partner-container{
+    margin-top: 100px;
+}
+
+.partners-logos{
+    border-radius: 10px;
+    background-color: #28235D;
+}
+
+
+.partner-section-title{
+    color: white;
+    font-weight: lighter;
+}
+
+.partner-second-container{
+    border-radius: 10px;
+    background: linear-gradient(to right, rgb(116, 120, 220), rgb(139, 170, 210), rgb(133, 194, 188));
+}
+
+div .partner-second-container .message {
+    font-family: Courgette-Regular;
+    font-size: 50px;
+    color: white;
+    margin-top: -10px;
+}
+
+.message-header {
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+

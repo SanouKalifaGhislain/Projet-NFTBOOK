@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Arima-Bold';
+    src: url('../Polices/Arima-Bold.ttf') format('truetype')
+}
+
+
+.section3_title{
+    margin-top: 20px;
+    font-family: Arima-Bold;
+    font-size: 40px;
+    color: white;
+    text-decoration: underline;
+}
+
+.section3_card{
+    border-radius: 10px;
+}
+
+.section3_row{
+    margin-top: -20px;
+}
+
+.section3_container{
+    margin-top: 100px;
+}
+
+
+.button_explore{
+    background-color: #7D7DD4;
+    width: 130px;
+    color:white;
+    font-size: 20px;
+    font-family: Kanit_Regular;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 3px solid #7D7DD4;
+    border-radius: 50px;
+}
+
+.button_explore:hover{
+    background-color: #7d7dd428;
+    width: 130px;
+    color:white;
+    font-size: 20px;
+    font-family: Kanit_Regular;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 3px solid #7D7DD4;
+    border-radius: 50px;
+}

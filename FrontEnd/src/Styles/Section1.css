@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'NotoSerif';
+    src: url('../Polices/NotoSerif-SemiBold.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'Kanit_Regular';
+    src: url('../Polices/Kanit-Regular.ttf') format('truetype')
+}
+
+
+.section1_container{
+    position: relative;
+    margin-top: 100px;
+}
+
+.section1_h1{
+    color: white;
+    font-family: NotoSerif;
+}
+
+.section1_p{
+    color: white;
+    margin-top: -20px;
+}
+
+.img_section1{
+    margin-left: 30px;
+}
+
+.section1_h1 span{
+    color: #D66E54;
+}
+
+.section1_button{
+    background-color: #7D7DD4;
+    width: 100px;
+    color:white;
+    font-size: 20px;
+    font-family: Kanit_Regular;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 3px solid #7D7DD4;
+    border-radius: 50px;
+}
+
+.section1_button:hover{
+    background-color: #7d7dd428;
+    width: 100px;
+    color:white;
+    font-size: 20px;
+    font-family: Kanit_Regular;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 3px solid #7D7DD4;
+    border-radius: 50px;
+}
+
+.separator1{
+    border: 1px solid black;
+    border-radius: 100px;
+    height: 20px;
+}
+.separator2{
+    border: 1px solid black;
+    border-radius: 100px;
+    height: 20px;
+}
+
+.separator-bar-container {
+    display: flex;
+    justify-content: space-around; /* Espacement égal autour des éléments */
+    align-items: center;
+    width: 100%; /* Ajuster la largeur pour gérer l'espacement */
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  .separator-bar {
+    width: 100px;
+    height: 10px;
+    border-radius: 50px; /* Pour les coins arrondis */
+  }
+  
+  .separator-blue {
+    background-color: #7a80e4; /* Couleur bleue similaire à celle des barres pleines */
+  }
+  
+  .separator-gradient {
+    background: linear-gradient(to right, #f58558, #7a80e4); /* Dégradé similaire */
+  }

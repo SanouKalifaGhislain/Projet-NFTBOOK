@@ -1,0 +1,39 @@
+.logo{
+    height: 53px;
+    width: 180px;
+    margin-top: 6px;
+}
+
+.barre_navigation{
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: none;
+}
+
+.navbar_li{
+    margin-left: 50px;
+}
+
+.navbar_item:hover{
+    border-bottom: 2px solid red;
+}
+
+.button_login{
+    background-color: none;
+    padding: 10px;
+    padding-left: 15px;
+    margin-left: 15px;
+    padding-right: 15px;
+    border: 3px solid rgb(226, 93, 17);
+    border-radius: 50px;
+}
+
+.button_login:hover{
+    background-color: rgba(226, 94, 17, 0.205);
+    color: white;
+    padding: 10px;
+    padding-left: 15px;
+    margin-left: 15px;
+    padding-right: 15px;
+    border: 3px solid rgb(226, 93, 17);
+    border-radius: 50px;
+}

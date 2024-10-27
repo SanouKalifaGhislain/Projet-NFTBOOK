@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Arima-Bold';
+    src: url('../Polices/Arima-Bold.ttf') format('truetype')
+}
+
+
+.team-container{
+    margin-top: 50px;
+}
+
+
+.team-title-color{
+    color:#B896E2;
+}
+
+
+.profile-card {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #3e3a6f; /* Couleur de fond de la carte */
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+
+.team-title{
+    margin-top: 50px;
+    font-family: Arima-Bold;
+    font-size: 40px;
+    color: white;
+}
+
+.profile-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: -75px;
+    margin-top: -100px;
+}
+
+.profile-name{
+    position: relative;
+    margin-top: 60px;
+}
+
+.profile-job{
+    color: #87CFD0;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons i {
+    font-size: 30px;
+    margin: 0 10px;
+    color: white;
+}
+
+/* Pour ajouter des effets au survol */
+.social-icons i:hover {
+    color: #ff4081; /* Couleur au survol */
+}
+
+
